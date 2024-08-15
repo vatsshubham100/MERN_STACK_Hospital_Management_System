@@ -32,9 +32,6 @@ This is a comprehensive Hospital Management System built using the MERN stack (M
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [License](#-license)
-- [Contributing](#-contributing)
 
 ## ✨ Features
 
